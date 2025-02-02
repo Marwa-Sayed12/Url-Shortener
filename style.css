@@ -13,7 +13,7 @@ body {
  background-color: #fff;
 }
 .logo {
-  width: 300px; /* Adjust the width of the logo as needed */
+  width: 300px; 
   max-width: 500px;
   cursor: pointer;
   padding: 0 0;
@@ -142,9 +142,9 @@ body {
 .text {
   width: 40%;
   height: 300px;
-  text-align: center; /* Align text to the center */
+  text-align: center; 
   margin-top: 100px;
-  margin-left: 10px; /* Adjust margin-left as needed */
+  margin-left: 10px; 
 }
 
 .container {
@@ -163,12 +163,12 @@ body {
 }
 
 input[type="text"] {
-  width: calc(70% - 30px); /* Adjust the width of the input field to accommodate the image */
+  width: calc(70% - 30px); 
   padding: 10px;
   margin-top: 60px;
   border: 1px solid #fff;
   box-sizing: border-box;
-  vertical-align: middle; /* Align the text vertically with the image */
+  vertical-align: middle; 
 }
 
 button {
@@ -188,10 +188,10 @@ button:hover {
 
 
 .scissors1 {
-  width: 50px; /* Adjust the width of the scissors1 image */
-  height: 50px; /* Adjust the height of the scissors1 image */
-  margin-left: 10px; /* Adjust the margin left as needed */
-  vertical-align: middle; /* Align the image vertically with the input field */
+  width: 50px; 
+  height: 50px; 
+  margin-left: 10px; 
+  vertical-align: middle; 
   
 }
 label{
@@ -212,9 +212,9 @@ strong{
   width: 40%;
   float: left;
   height: 500px;
-  text-align: center; /* Align text to the left */
+  text-align: center; 
   margin-top: 150px;
-  margin-left: 10px; /* Adjust margin-left as needed */
+  margin-left: 10px; 
 }
 
 @keyframes flip {
